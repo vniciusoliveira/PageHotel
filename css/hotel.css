@@ -1,0 +1,94 @@
+.bg-nav-color{
+    background-color:rgb(93, 3, 3);
+}
+.txt-nav-color{
+    color:rgb(219, 222, 224)
+}
+body{
+    margin: 0 !important;
+    width: 100vw;
+    padding: 0 !important;
+}
+footer .card{
+    background-color: rgb(27, 35, 41) !important;
+    border-radius: 0;
+}
+footer .card-body{
+    height: 200px;
+    text-align: center;
+    color:rgba(255,255,255, 0.8) !important;
+    
+}
+
+footer .card-body a{
+    color:rgba(255,255,255, 0.8) !important;
+    text-decoration: none;
+}
+
+
+
+footer .card-header{
+    background-color: rgb(17, 25, 31) !important;
+    text-align: center;
+}
+footer .card-header a{
+    text-decoration: none;
+    color:white;
+    margin:0 10px;
+    font-size:20px
+}
+
+footer .card-header a:hover{
+    color:red
+}
+
+main .row{
+    padding: 0 100px !important;
+}
+
+main h2{
+    margin: 30px 100px 60px 100px;
+}
+
+main table, main table tr, main table tr td, main table tr th{
+    border: 2px solid silver;
+}
+
+table th{
+    text-align: center;
+}
+
+table td{
+    padding: 5px !important;
+}
+
+main table td h3{
+    text-align: center;
+}
+
+main table{
+    margin:50px auto 100px;
+}
+
+main table tr{
+    background-color: #eee;
+    transition: ease 1s;
+}
+
+main table tr:hover{
+    background-color: rgb(228, 225, 225);
+}
+
+main table td p{
+    text-align: center;
+}
+
+main h4{
+    font-size: 40px;
+    text-align: center;
+    
+}
+.reservas{
+    margin-bottom: 20px;
+}
+
